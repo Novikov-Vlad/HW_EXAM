@@ -1,0 +1,7 @@
+C:\Users\Bruce\source\repos\HW_EXAM\obj\Debug\HW_EXAM.csprojAssemblyReference.cache
+C:\Users\Bruce\source\repos\HW_EXAM\obj\Debug\HW_EXAM.csproj.CoreCompileInputs.cache
+C:\Users\Bruce\source\repos\HW_EXAM\bin\Debug\HW_EXAM.exe.config
+C:\Users\Bruce\source\repos\HW_EXAM\bin\Debug\HW_EXAM.exe
+C:\Users\Bruce\source\repos\HW_EXAM\bin\Debug\HW_EXAM.pdb
+C:\Users\Bruce\source\repos\HW_EXAM\obj\Debug\HW_EXAM.exe
+C:\Users\Bruce\source\repos\HW_EXAM\obj\Debug\HW_EXAM.pdb
